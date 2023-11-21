@@ -1,10 +1,10 @@
 # ConfUsersWithOrganization
 How to Configure users using Organization and IAM Identify Center
 
-<h1><a href="https://app.tango.us/app/workflow/a25a6de8-be26-4905-9e13-32aa6ebbb3be?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links" target='_blank'>How to Configure users using Organization and IAM Identity Center</a></h1>
+<h1>How to Configure users using Organization and IAM Identity Center</h1>
 <div><b>Creation Date:</b> November 21, 2023</div>
 <div><b>Created By:</b> Yeison Giraldo</div>
-<div><a href="https://app.tango.us/app/workflow/a25a6de8-be26-4905-9e13-32aa6ebbb3be?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links" target='_blank'>View most recent version on Tango.us</a></div>
+
 <div style="height: 24px">&#8203;</div>
 <hr />
 <div style="height: 24px">&#8203;</div>
